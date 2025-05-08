@@ -1,0 +1,13 @@
+
+[
+    {
+      "id": "glazed v8.6.3",
+      "name": "Pokémon Glazed",
+      "description": "A popular hack with a new region (Tunod), custom story, mega evolution, and much more.",
+      "base_rom_id": "emerald",
+      "patch_file": "patches/Glazed8.6.3.ups",
+      "box_art_url": "images/boxart/unbound_v2.1.1.png",
+      "author": "Redriders180"
+    }
+    
+  ]
