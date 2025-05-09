@@ -1,7 +1,7 @@
 
 [
     {
-      "id": "glazed v8.6.3",
+      "id": "Glazed8.6.3",
       "name": "Pokémon Glazed",
       "description": "A popular hack with a new region (Tunod), custom story, mega evolution, and much more.",
       "base_rom_id": "emerald",
@@ -11,7 +11,7 @@
     },
 
     {
-        "id": "flora sky",
+        "id": "FloraSky",
         "name": "Pokémon Flora Sky",
         "description": "A hack of emerald featuring gens 4 and 5, with a focus on the mythical pokemon shaymin",
         "base_rom_id": "emerald",
@@ -21,7 +21,7 @@
       },
 
       {
-        "id": "crest v1.0.9.9.2",
+        "id": "Crest_V1.0.9.9.2",
         "name": "Pokémon Emerald Crest",
         "description": "Massive QoL hack of emerald, including all pokemon up to gen 9 and a quest system",
         "base_rom_id": "emerald",
@@ -31,7 +31,7 @@
       },
 
       {
-        "id": "seaglass v3.0",
+        "id": "EmeraldSeaglass_v3.0",
         "name": "Pokémon Emerald Seaglass",
         "description": "Gorgeous ROM hack that recreates Pokemon emerald in the GBC artstyle",
         "base_rom_id": "emerald",
