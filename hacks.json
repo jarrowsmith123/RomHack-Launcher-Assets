@@ -38,5 +38,15 @@
         "patch_file": "patches/EmeraldSeaglass_v3.0.ips",
         "box_art_url": "images/EmeraldSeaglass_v3.0.png",
         "author": "Nemo622"
+      },   
+
+      {
+        "id": "Unbound_v2.1.1",
+        "name": "Pokémon Unbound",
+        "description": "An expansive ROM hack with a brand new story, quest system, and much much more!",
+        "base_rom_id": "firered",
+        "patch_file": "patches/Unbound_v2.1.1.ups",
+        "box_art_url": "images/Unbound_v2.1.1.png",
+        "author": "Skeli789"
       }   
   ]
