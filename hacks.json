@@ -1,52 +1,42 @@
-
-[
-    {
-      "id": "Glazed8.6.3",
-      "name": "Pokémon Glazed",
-      "description": "A popular hack with a new region (Tunod), custom story, mega evolution, and much more.",
-      "base_rom_id": "emerald",
-      "patch_file": "patches/Glazed8.6.3.ups",
-      "box_art_url": "images/Glazed8.6.3.png",
-      "author": "Redriders180"
-    },
-
-    {
-        "id": "FloraSky",
-        "name": "Pokémon Flora Sky",
-        "description": "A hack of emerald featuring gens 4 and 5, with a focus on the mythical pokemon shaymin",
-        "base_rom_id": "emerald",
-        "patch_file": "patches/FloraSky.ups",
-        "box_art_url": "images/FloraSky.png",
-        "author": "12345"
-      },
-
-      {
-        "id": "Crest_V1.0.9.9.2",
-        "name": "Pokémon Emerald Crest",
-        "description": "Massive QoL hack of emerald, including all pokemon up to gen 9 and a quest system",
-        "base_rom_id": "emerald",
-        "patch_file": "patches/Crest_V1.0.9.9.2.ups",
-        "box_art_url": "images/Crest_V1.0.9.9.2.png",
-        "author": "Aaghat"
-      },
-
-      {
-        "id": "EmeraldSeaglass_v3.0",
-        "name": "Pokémon Emerald Seaglass",
-        "description": "Gorgeous ROM hack that recreates Pokemon emerald in the GBC artstyle",
-        "base_rom_id": "emerald",
-        "patch_file": "patches/EmeraldSeaglass_v3.0.ips",
-        "box_art_url": "images/EmeraldSeaglass_v3.0.png",
-        "author": "Nemo622"
-      },   
-
-      {
-        "id": "Unbound_v2.1.1",
-        "name": "Pokémon Unbound",
-        "description": "An expansive ROM hack with a brand new story, quest system, and much much more!",
-        "base_rom_id": "firered",
-        "patch_file": "patches/Unbound_v2.1.1.ups",
-        "box_art_url": "images/Unbound_v2.1.1.png",
-        "author": "Skeli789"
-      }   
-  ]
+{
+  "Glazed8.6.3": {
+    "name": "Pokémon Glazed",
+    "description": "A popular hack with a new region (Tunod), custom story, mega evolution, and much more.",
+    "base_rom_id": "emerald",
+    "patch_file": "patches/Glazed8.6.3.ups",
+    "box_art_url": "images/Glazed8.6.3.png",
+    "author": "Redriders180"
+  },
+  "FloraSky": {
+    "name": "Pokémon Flora Sky",
+    "description": "A hack of emerald featuring gens 4 and 5, with a focus on the mythical pokemon shaymin",
+    "base_rom_id": "emerald",
+    "patch_file": "patches/FloraSky.ups",
+    "box_art_url": "images/FloraSky.png",
+    "author": "12345"
+  },
+  "Crest_V1.0.9.9.2": {
+    "name": "Pokémon Emerald Crest",
+    "description": "Massive QoL hack of emerald, including all pokemon up to gen 9 and a quest system",
+    "base_rom_id": "emerald",
+    "patch_file": "patches/Crest_V1.0.9.9.2.ups",
+    "box_art_url": "images/Crest_V1.0.9.9.2.png",
+    "author": "Aaghat"
+  },
+  "EmeraldSeaglass_v3.0": {
+    "name": "Pokémon Emerald Seaglass",
+    "description": "Gorgeous ROM hack that recreates Pokemon emerald in the GBC artstyle",
+    "base_rom_id": "emerald",
+    "patch_file": "patches/EmeraldSeaglass_v3.0.ips",
+    "box_art_url": "images/EmeraldSeaglass_v3.0.png",
+    "author": "Nemo622"
+  },
+  "Unbound_v2.1.1": {
+    "name": "Pokémon Unbound",
+    "description": "An expansive ROM hack with a brand new story, quest system, and much much more!",
+    "base_rom_id": "firered",
+    "patch_file": "patches/Unbound_v2.1.1.ups",
+    "box_art_url": "images/Unbound_v2.1.1.png",
+    "author": "Skeli789"
+  }
+}
