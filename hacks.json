@@ -43,5 +43,14 @@
     "patch_file": "patches/Unbound_v2.1.1.ups",
     "box_art_url": "images/Unbound_v2.1.1.png",
     "author": "Skeli789"
+  },
+  "OdysseyV4.0.1": {
+    "id": "OdysseyV4.0.1",
+    "name": "Pokémon Odyssey",
+    "description": "An ambitious dungeon crawler ROM hack inspired by Etrian Odyssey",
+    "base_rom_id": "firered",
+    "patch_file": "patches/OdysseyV4.0.1.ups",
+    "box_art_url": "images/OdysseyV4.0.1.png",
+    "author": "Yggdrasil Team"
   }
 }
