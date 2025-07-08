@@ -44,6 +44,15 @@
     "box_art_url": "images/Unbound_v2.1.1.png",
     "author": "Skeli789"
   },
+  "RadicalRed_V4.1": {
+    "id": "RadicalRed_V4.1",
+    "name": "Pokémon Radical Red",
+    "description": "A popular difficulty hack of the Kanto region featuring all currently available Pokemon",
+    "base_rom_id": "firered",
+    "patch_file": "patches/RadicalRed_V4.1.ups",
+    "box_art_url": "images/RadicalRed_V4.1.png",
+    "author": "soupercell"
+  },
   "OdysseyV4.0.1": {
     "id": "OdysseyV4.0.1",
     "name": "Pokémon Odyssey",
