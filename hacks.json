@@ -6,7 +6,8 @@
     "base_rom_id": "emerald",
     "patch_file": "patches/Glazed8.6.3.ups",
     "box_art_url": "images/Glazed8.6.3.png",
-    "author": "Redriders180"
+    "author": "Redriders180",
+    "system": "gba"
   },
   "FloraSky": {
     "id": "FloraSky",
@@ -15,7 +16,8 @@
     "base_rom_id": "emerald",
     "patch_file": "patches/FloraSky.ups",
     "box_art_url": "images/FloraSky.png",
-    "author": "12345"
+    "author": "12345",
+    "system": "gba"
   },
   "Crest_V1.0.9.9.2": {
     "id": "Crest_V1.0.9.9.2",
@@ -24,7 +26,8 @@
     "base_rom_id": "emerald",
     "patch_file": "patches/Crest_V1.0.9.9.2.ups",
     "box_art_url": "images/Crest_V1.0.9.9.2.png",
-    "author": "Aaghat"
+    "author": "Aaghat",
+    "system": "gba"
   },
   "EmeraldSeaglass_v3.0": {
     "id": "EmeraldSeaglass_v3.0",
@@ -33,7 +36,8 @@
     "base_rom_id": "emerald",
     "patch_file": "patches/EmeraldSeaglass_v3.0.ips",
     "box_art_url": "images/EmeraldSeaglass_v3.0.png",
-    "author": "Nemo622"
+    "author": "Nemo622",
+    "system": "gba"
   },
   "Unbound_v2.1.1": {
     "id": "Unbound_v2.1.1",
@@ -42,7 +46,8 @@
     "base_rom_id": "firered",
     "patch_file": "patches/Unbound_v2.1.1.ups",
     "box_art_url": "images/Unbound_v2.1.1.png",
-    "author": "Skeli789"
+    "author": "Skeli789",
+    "system": "gba"
   },
   "RadicalRed_V4.1": {
     "id": "RadicalRed_V4.1",
@@ -51,7 +56,8 @@
     "base_rom_id": "firered",
     "patch_file": "patches/RadicalRed_V4.1.ups",
     "box_art_url": "images/RadicalRed_V4.1.png",
-    "author": "soupercell"
+    "author": "soupercell",
+    "system": "gba"
   },
   "OdysseyV4.0.1": {
     "id": "OdysseyV4.0.1",
@@ -60,6 +66,7 @@
     "base_rom_id": "firered",
     "patch_file": "patches/OdysseyV4.0.1.ups",
     "box_art_url": "images/OdysseyV4.0.1.png",
-    "author": "Yggdrasil Team"
+    "author": "Yggdrasil Team",
+    "system": "gba"
   }
 }
