@@ -39,6 +39,16 @@
     "author": "Nemo622",
     "system": "gba"
   },
+  "EmeraldRogue_1.3.2": {
+    "id": "EmeraldRogue_1.3.2",
+    "name": "Pokémon Emerald Rogue",
+    "description": "A rogue like hack for gen 3 involving randomised runs and mega evolution",
+    "base_rom_id": "emerald",
+    "patch_file": "patches/EmeraldRogue_1.3.2.ups",
+    "box_art_url": "images/EmeraldRogue_1.3.2.png",
+    "author": "Pokkabie",
+    "system": "gba"
+  },
   "Unbound_v2.1.1": {
     "id": "Unbound_v2.1.1",
     "name": "Pokémon Unbound",
@@ -57,6 +67,16 @@
     "patch_file": "patches/RadicalRed_V4.1.ups",
     "box_art_url": "images/RadicalRed_V4.1.png",
     "author": "soupercell",
+    "system": "gba"
+  },
+  "Gaia_v3.2": {
+    "id": "Gaia_v3.2",
+    "name": "Pokémon Gaia",
+    "description": "A massively popular rom hack of fire red including a brand new story, region, mega evolution and more!",
+    "base_rom_id": "firered",
+    "patch_file": "patches/Gaia_v3.2.ups",
+    "box_art_url": "images/Gaia_v3.2.png",
+    "author": "Spherical Ice",
     "system": "gba"
   },
   "OdysseyV4.0.1": {
