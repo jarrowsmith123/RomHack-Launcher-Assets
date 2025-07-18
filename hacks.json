@@ -79,6 +79,16 @@
     "author": "Spherical Ice",
     "system": "gba"
   },
+  "StormSilver": {
+    "id": "StormSilver",
+    "name": "Pokémon Storm Silver",
+    "description": "A difficulty and QoL hack of soul silver",
+    "base_rom_id": "soulsilver",
+    "patch_file": "patches/StormSilver.patch",
+    "box_art_url": "images/StormSilver.png",
+    "author": "Drayano",
+    "system": "nds"
+  },
   "OdysseyV4.0.1": {
     "id": "OdysseyV4.0.1",
     "name": "Pokémon Odyssey",
@@ -89,4 +99,5 @@
     "author": "Yggdrasil Team",
     "system": "gba"
   }
+  
 }
